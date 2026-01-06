@@ -16,7 +16,7 @@ public class ProjectController {
                 new Project(3L, "App Mobile", "Application mobile pour gérer mes tâches", "React Native, Firebase", ""),
                 new Project(4L, "App Gestion de recette", "Application mobile pour gérer mes recettes", "React Native, Firebase",""),
                 new project(5L, "App de gestion de rendez vous", "Application code avec du php"),
-                new  project(6L, "App mesagerie securisee avec un chat intelligent", "App codé avec node js et hebergée")
+                new project(6L, "App mesagerie securisee avec un chat intelligent", "App codé avec node js et hebergée")
         );
     }
 }
