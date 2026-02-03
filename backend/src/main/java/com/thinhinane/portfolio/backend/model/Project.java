@@ -4,7 +4,7 @@ public class Project {
 
     private Long id;
     private String title;
-    private Strig  nameProject;
+    private String  nameProject;
     private String description;
     private String techStack;
     private String githubLink;
